@@ -9,5 +9,6 @@ dos_midi_BLE.ino 은 블루투스 전송으로 계획되었지만,
 지터나 버퍼링 등의 현상이 심하여 개선이 필요합니다.
 
 
-# 이 프로젝트는 제 다른 저장소(https://github.com/Electric-ray/E-RayDSB)에 있는
+# 이 프로젝트는 제 다른 저장소 
+# (https://github.com/Electric-ray/E-RayDSB) 에 있는
 # E-RayDSB로 통합되었습니다.
